@@ -1,0 +1,335 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+#body {
+    background-color: #e3dcd5;
+}
+h1 {
+    color: #cec0fa;
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive, arial, sans-serif;
+}
+h2 {
+    text-align: center;
+    color: rosybrown;
+}
+.navbar {
+    width: 100%;
+    height: 15vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 95px;
+    cursor: pointer;
+}
+nav {
+    flex: 1;
+    padding-left: 20px;
+}
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 20px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #4a393b;
+    font-size: 20px;
+}
+.divbio {
+    width: 850px;
+    height: 300px;
+    background-color: rgba(255, 255, 255, 0.466);
+    border-radius: 3rem;
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.titulobio {
+    font-family: cursive, arial, sans-serif;
+    font-size: 45px;
+    color: #4a393b;
+}
+.bio {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+.divIP {
+    width: 430px;
+    height: 300px;
+    background-color: rgba(255, 255, 255, 0.466);
+    border-radius: 3rem;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.tituloIP {
+    font-family: cursive, arial, sans-serif;
+    font-size: 30px;
+    color: #4a393b;
+    text-align: center;
+}
+.IP {
+    font-size: 18px;
+    margin-top: 10px;
+}
+.divredes {
+    width: 1200px;
+    height: 160px;
+    background-color: rgba(255, 255, 255, 0.466);
+    border-radius: 3rem;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.tituloredes {
+    font-family: cursive, arial, sans-serif;
+    font-size: 30px;
+    color: #4a393b;
+    text-align: center;
+}
+.instagram {
+    width: 70px;
+    height: 70px;
+    margin-left: 300px;
+    float: left;
+    margin-top: 20px;
+}
+.facebook {
+    width: 90px;
+    height: 90px;
+    margin-left: 180px;
+    text-align: center;
+    float: left;
+    margin-top: 10px;
+}
+.discord {
+    width: 80px;
+    height: 80px;
+    margin-left: 200px;
+    text-align: center;
+    float: left;
+    margin-top: 10px;
+}
+#rodape {
+    width: 1342px;
+    height: 30px;
+    background-color: rosybrown;
+    margin-top: 20px;
+}
+.texto {
+    color: snow;
+    text-align: right;
+    margin-right: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.galeria {
+    font-size: 50px;
+    color: #4a393b;
+    font-family: cursive, arial, sans-serif;
+    background-color: #cac5bf;
+}
+.familia {
+    width: 430px;
+    height: 290px;
+    margin-left: 30px;
+}
+.avo {
+    width: 500px;
+    height: 290px;
+}
+.amigashalloween {
+    width: 320px;
+    height: 290px;
+    margin-top: 30px;
+}
+.amigasetec {
+    width: 430px;
+    height: 290px;
+    margin-left: 30px;
+}
+.amigos {
+    width: 500px;
+    height: 290px;
+}
+.manu {
+    width: 320px;
+    height: 290px;
+}
+.niver {
+    width: 430px;
+    height: 290px;
+    margin-left: 30px;
+}
+.amigosetec {
+    width: 500px;
+    height: 290px;
+}
+.niverpai {
+    width: 320px;
+    height: 290px;
+}
+.festa {
+    width: 430px;
+    height: 290px;
+    margin-left: 30px;
+}
+.amgcaetano {
+    width: 500px;
+    height: 290px;
+}
+.familia2 {
+    width: 320px;
+    height: 290px;
+}
+#rodapeP2 {
+    width: 1342px;
+    height: 30px;
+    background-color: rosybrown;
+}
+.divanimais {
+    width: 1200px;
+    height: 160px;
+    background-color: rgba(255, 255, 255, 0.466);
+    border-radius: 3rem;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.tituloanimais {
+    font-family: cursive, arial, sans-serif;
+    font-size: 30px;
+    color: #4a393b;
+    text-align: center;
+}
+.textoanimais {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 17px;
+}
+.divthor {
+    width: 600px;
+    height: 780px;
+    float: right;
+    background-color: rgba(255, 255, 255, 0.466);
+    border-radius: 3rem;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.titulothor {
+    font-size: 40px;
+    color: #4a393b;
+    font-family: cursive, arial, sans-serif;
+    margin-top: 20px;
+}
+.textothor {
+    margin-top: 15px;
+    text-align: center;
+}
+.thor {
+    width: 400px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.divuisk {
+    width: 600px;
+    height: 780px;
+    float: right;
+    background-color: rgba(255, 255, 255, 0.466);
+    border-radius: 3rem;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.titulouisk {
+    font-size: 40px;
+    color: #4a393b;
+    font-family: cursive, arial, sans-serif;
+    margin-top: 20px;
+}
+.textouisk {
+    margin-top: 15px;
+    text-align: center;
+}
+.uisk {
+    width: 400px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+#rodapeP3 {
+    width: 1342px;
+    height: 30px;
+    background-color: rosybrown;
+}
+.invisivel {
+    color: #e3dcd5;
+}
+.banner1 {
+    margin-left: 70px;
+    margin-top: 30px;
+    width: 800px;
+    height: 300px;
+}
+.projetos {
+    font-size: 50px;
+    color: #4a393b;
+    font-family: cursive, arial, sans-serif;
+    background-color: #cac5bf;
+    margin-top: 20px;
+}
+.catbox {
+    width: 350px;
+    height: 300px;
+}
+.livro {
+    width: 300px;
+    height: 500px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.livro2 {
+    width: 300px;
+    height: 500px;
+    margin-top: 20px;
+}
+.ingles {
+    width: 550px;
+    height: 300px;
+    margin-bottom: 200px;
+}
+#bodyindex {
+    background-image: url(fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+.textoindex {
+    font-size: 80px;
+    font-family: cursive, arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin-top: 25px;
+    color: #4a393b;
+}
+#rodapeindex {
+    width: 1342px;
+    height: 30px;
+    background-color: rosybrown;
+    margin-top: 365px;
+}
+.stiker {
+    font-size: 30px;
+    color:#4a393b;
+    margin-left: 15px;
+}
+.subtitulo {
+    font-size: 25px;
+    color:#4a393b;
+    text-align: right;
+    margin-right: 170px;
+}
